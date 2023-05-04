@@ -8,7 +8,7 @@ export default function App() {
   return (
     <>
       <div className="border-b border-neutral-800 p-2">
-        <div className="container">
+        <div className="container mx-auto">
           <div className="flex justify-between">
             <a href="/" className="font-bold text-lg">
               History
